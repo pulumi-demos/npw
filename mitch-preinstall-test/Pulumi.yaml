@@ -1,0 +1,6 @@
+name: mitch-preinstall-test
+runtime: nodejs
+description: A Serverless application demo using Lambda and S3 Bucket events
+config:
+  aws:region:
+    value: us-east-1
