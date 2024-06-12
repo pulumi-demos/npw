@@ -1,0 +1,4 @@
+config:
+  pulumi:template: https://app.pulumi.com/ai/api/bundle/demo/5d1cd78f-d4a6-410a-80c8-29cabe48afc2/vJblVB4-0.zip
+environment:
+  - azure-oidc
